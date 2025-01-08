@@ -1,1 +1,1 @@
-# Vitest broswer mode vs. Vitest JSDOM testing
+# Vitest browser mode vs. Vitest JSDOM testing
